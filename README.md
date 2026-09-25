@@ -36,11 +36,5 @@ These parameters produce the isochrone that best traces the SDSS CMD of M2.
 3. Update file paths in the notebook.  
 4. Run the Jupyter notebook to reproduce the analysis.
 
-## Files
-
-- `M2_SDSS_data.csv` — SDSS photometric catalog  
-- `MIST_iso_*.iso.cmd` — MIST isochrone files  
-- `MIST-Copy1.ipynb` — Main analysis notebook  
-
 ---
 
